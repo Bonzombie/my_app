@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonzombie/my_app.git"
+  },
+  "author": "bonz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonzombie/my_app/issues"
+  },
+  "homepage": "https://github.com/Bonzombie/my_app#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
